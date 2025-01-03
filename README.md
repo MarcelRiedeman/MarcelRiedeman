@@ -30,7 +30,7 @@ I’m Marcel Riedeman, a **full-stack developer** passionate about building scal
 ---
 
 ## 🌟 Featured Projects  
-### 🌐 [Surf Explorer](surf-explorer.com)  
+### 🌐 [Surf Explorer](https://www.surf-explorer.com/)  
 **Description**: A platform offering detailed information about surf spots worldwide. I have build this together with my brother [Emil Riedeman](https://github.com/EmilRiedeman)
 **Tech Stack**: Django REST Framework, Nuxt.js, PostgreSQL.  
 
