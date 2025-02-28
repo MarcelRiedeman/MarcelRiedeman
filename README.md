@@ -7,7 +7,7 @@ I’m Marcel Riedeman, a **full-stack developer** passionate about building scal
 ## 🚀 About Me  
 - 🌍 Based in the Netherlands
 - 🌊 Surf enthusiast and co-creator of [Surf Explorer](https://www.surf-explorer.com/), a platform providing insights into surf spots worldwide.  
-- 💡 Currently open to opportunities in **frontend**, **backend**, or **full-stack development** roles.  
+<!-- - 💡 Currently open to opportunities in **frontend**, **backend**, or **full-stack development** roles.  -->
 
 ---
 
